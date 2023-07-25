@@ -101,10 +101,9 @@ main {
     border-bottom-right-radius: 10px;
 } 
 
-main h1.openai {
+main h1#openai {
     padding-top: 50px;
 }
-
 
 main h1  {
     font-weight: normal;
